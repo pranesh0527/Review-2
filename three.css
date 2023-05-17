@@ -1,0 +1,24 @@
+.three
+{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.three:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.three1
+{
+    position: relative;
+    left: 890px;
+    top:-37px;
+    cursor: pointer;
+}
+.three1:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.cla
+{
+    text-align: center;
+}

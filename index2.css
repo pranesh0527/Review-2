@@ -1,0 +1,30 @@
+*
+{
+    background-color: #049ab5;
+}
+.ind2
+{
+    font-size: 30px;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+.y
+{
+    opacity: 99%;
+    border-radius: 20%;
+    position: absolute;
+    top: 120px;
+    width: 300px;
+    height: 300px;
+    left: 800px;
+}
+.y1
+{
+    border-radius: 10%;
+    position: absolute;
+    top: 6px;
+    width: 50px;
+    height: 50px;
+    left: 180px;
+}

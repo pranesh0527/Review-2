@@ -1,0 +1,46 @@
+.third
+{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.third:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.third1
+{
+    position: relative;
+    left: 890px;
+    top:-25px;
+    cursor: pointer;
+}
+.third1:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.third2
+{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.third2:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.third3
+{
+    position: relative;
+    left: 890px;
+    top:-25px;
+    cursor: pointer;
+}
+.third3:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.rider
+{
+ position: absolute;
+ top: 30px;
+ left: 600px;
+}

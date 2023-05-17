@@ -1,0 +1,47 @@
+.second
+{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.second:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.second1
+{
+    position: relative;
+    left: 890px;
+    top:-25px;
+    cursor: pointer;
+}
+.second1:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.third
+{
+    position: relative;
+    left: 190px;
+    top:100px;
+    cursor: pointer;
+}
+.third:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.fourth
+{
+    position: relative;
+    left: 890px;
+    top:-95px;
+    cursor: pointer;
+}
+.fourth:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.li
+{
+
+    position: absolute;
+    top: 40px;
+    left: 630px;
+}

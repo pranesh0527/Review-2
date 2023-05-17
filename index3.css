@@ -1,0 +1,52 @@
+/* *
+{
+    background-color: #049ab5;
+} */
+@import url('https://fonts.google.com/specimen/Manrope?query=manro');
+.head
+{
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-family: 'Manrope', sans-serif;
+}
+.cards{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.cards:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.cards1{
+    position: relative;
+    left: 790px;
+    top:-19px;
+    cursor: pointer;
+
+}
+.cards1:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.cards2{
+    position: relative;
+    left: 190px;
+    top:30px;
+    cursor: pointer;
+
+}
+.cards2:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.cards3{
+    position: relative;
+    left: 790px;
+    top:-162px;
+    cursor: pointer;
+
+}
+.cards3:hover{
+    box-shadow: 5px 10px 20px gray;
+}

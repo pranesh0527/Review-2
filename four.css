@@ -1,0 +1,34 @@
+.four
+{
+    position: relative;
+    left: 190px;
+    top:170px;
+    cursor: pointer;
+}
+.four:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.four1
+{
+    position: relative;
+    left: 890px;
+    top:-37px;
+    cursor: pointer;
+}
+.four1:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.four2
+{
+    position: relative;
+    left: 480px;
+    top:80px;
+    cursor: pointer;
+}
+.four2:hover{
+    box-shadow: 5px 10px 20px gray;
+}
+.cl
+{
+    text-align: center;
+}
